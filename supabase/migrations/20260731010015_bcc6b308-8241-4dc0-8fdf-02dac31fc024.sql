@@ -1,0 +1,1 @@
+GRANT EXECUTE ON FUNCTION public.increment_play_count(uuid) TO anon, authenticated;

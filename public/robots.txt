@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /upload
+Disallow: /me
+Disallow: /library
+Disallow: /auth
+
+Sitemap: /sitemap.xml
